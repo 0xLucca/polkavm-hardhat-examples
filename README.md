@@ -2,8 +2,6 @@
 
 This repository contains a collection of basic examples demonstrating how to deploy and interact with Ethereum-compatible smart contracts on PolkaVM using Hardhat.
 
-[PolkaVM](https://polkavm.io) is a Polkadot smart contract platform that offers Ethereum compatibility, allowing developers to deploy Solidity smart contracts on the Polkadot ecosystem.
-
 ## Project Structure
 
 This repository contains the following example projects:
