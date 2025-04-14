@@ -2,6 +2,13 @@
 
 This project demonstrates how to deploy, test, and interact with a simple storage contract on PolkaVM using Hardhat.
 
+## Contract Overview
+
+The Storage contract in this project implements a simple value storage mechanism:
+- Store a value on the blockchain
+- Retrieve the stored value
+- Update the stored value
+
 ## Prerequisites
 
 - Node.js (v14+)
@@ -51,13 +58,6 @@ adapterBinaryPath: 'INSERT_PATH_TO_ETH_RPC_ADAPTER',
 To configure the compiler binary, replace `INSERT_PATH_TO_RESOLC_COMPILER` with the correct path to the compiler binary. You'll need to install the latest release for your specific system from the [`revive` repository](https://github.com/paritytech/revive) and then install [`solc-select`](https://github.com/crytic/solc-select) to choose the specific version of the solidity compiler.
 
 To set up the `INSERT_PATH_TO_SUBSTRATE_NODE` and `INSERT_PATH_TO_ETH_RPC_ADAPTER` variables and run a local node for development and testing, follow the instructions on the [Deploying with a Local Node](https://papermoonio.github.io/polkadot-mkdocs/develop/smart-contracts/dev-environments/hardhat/#deploying-with-a-local-node) page.
-
-## Contract Overview
-
-The Storage contract in this project implements a simple value storage mechanism:
-- Store a value on the blockchain
-- Retrieve the stored value
-- Update the stored value
 
 ## Development Workflow
 
