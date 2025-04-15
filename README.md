@@ -6,9 +6,9 @@ This repository contains a collection of basic examples demonstrating how to dep
 
 This repository contains the following example projects:
 
-- **erc20-hardhat** - implementation of an ERC-20 token contract using Hardhat
-- **erc721-hardhat** - implementation of an ERC-721 NFT contract using Hardhat
-- **storage-hardhat** - implementation of a simple storage contract using Hardhat
+- [**erc20-hardhat**](./erc20-hardhat/) - implementation of an ERC-20 token contract using Hardhat
+- [**erc721-hardhat**](./erc721-hardhat/) - implementation of an ERC-721 NFT contract using Hardhat
+- [**storage-hardhat**](./storage-hardhat/) - implementation of a simple storage contract using Hardhat
 
 Each subfolder is a standalone Hardhat project with its own configuration, contracts, deployment scripts, and tests.
 

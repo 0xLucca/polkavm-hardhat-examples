@@ -1,6 +1,7 @@
 # Storage Contract Implementation on PolkaVM
 
-This project demonstrates how to deploy, test, and interact with a simple storage contract on PolkaVM using Hardhat.
+This project demonstrates how to deploy, test, and interact with a simple storage contract on PolkaVM using Hardhat. For a comprehensive, step-by-step guide on this process, check out the [Test and Deploy with Hardhat](https://papermoonio.github.io/polkadot-mkdocs/tutorials/smart-contracts/launch-your-first-project/test-and-deploy-with-hardhat/
+) tutorial.
 
 ## Contract Overview
 
